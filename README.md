@@ -1,6 +1,6 @@
 Paper trying to reframe the 'progress in philosophy' debate, articulating an instrumentalist take, hopefully drawing lines to make some empirical work on the issue.
 
-Main argument:
+<\b>Main argument:<\b>
     Philosophy's main value comes from the set of skills philosophers end up developing in studying and thinking about the problems of the discipline.
     (Maybe a weak version: There are good reason to think philosophy is instrumentally valuable, it posses an external justification)
 

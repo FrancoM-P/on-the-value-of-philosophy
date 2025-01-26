@@ -7,7 +7,7 @@ Paper that aims to reframe the 'progress in philosophy' debate, articulate an in
 Main argument:
 ----------------
 
-Progress in the problems of the discipline is not a necessary condition for philosophy being valuable, since it's value seems mainly from the set of skills philosophers end up developing in studying and thinking about the problems of the discipline. Such a set of skills can be operationalized. They are transferable and useful, this should be empirically testable. 
+Progress in the problems of the discipline is not a necessary condition for philosophy being valuable, since it's value seems mainly from the set of skills philosophers end up developing in studying and thinking about the problems of the discipline. Such a set of skills can be operationalized. They are transferable and incredibly useful in important contexts, this should be empirically testable. 
 
 
 Secondary arguments:
@@ -36,6 +36,8 @@ Important insights
 
    + Intrinsic value – internal justification / instrumental value – external justification.
    + Intrinsic value might steam from its epistemic, cultural and/or aesthetic value.
+
+– Philosophical skills are something on the lines of what enables ppl to do good conceptual engeniering and/or get understanding of not-yet-well-conceptuialized phenomena.
 
 
 Structure of the paper

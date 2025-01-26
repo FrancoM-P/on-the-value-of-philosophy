@@ -37,7 +37,7 @@ Important insights
    + Intrinsic value – internal justification / instrumental value – external justification.
    + Intrinsic value might steam from its epistemic, cultural and/or aesthetic value.
 
-– Philosophical skills are something on the lines of what enables ppl to do good conceptual engeniering and/or get understanding of not-yet-well-conceptuialized phenomena.
+– Philosophical skills are something on the lines of what enables ppl to do good conceptual engineering and/or get understanding of not-yet-well-conceptualized phenomena.
 
 
 Structure of the paper
@@ -47,4 +47,4 @@ Structure of the paper
 
 – Story.
 
-– Motivation for refraiming the question.
+– Motivation for reframing the question.

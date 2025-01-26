@@ -1,15 +1,39 @@
-Paper trying to reframe the 'progress in philosophy' debate, articulating an instrumentalist take, hopefully drawing lines to make some empirical work on the issue.
+On the Value of Philosophy
+===========================
 
-### Main argument: ###
-    Philosophy's main value comes from the set of skills philosophers end up developing in studying and thinking about the problems of the discipline.
-    (Maybe a weak version: There are good reason to think philosophy is instrumentally valuable, it posses an external justification)
 
-### Secondary arguments: ###
-    – The value-of-philosophy question is more interesting/important/a better way to frame the issue than the progress-in-philosophy question.
-    – In so far it receives public funds, philosophers have the duty of offering an external justification.
-    – Ppl from humanities often offer poor external justifications—not good enough as to justify the amount of public funding they receive, which, arguably, should be proportional to the amount of public good a discipline is expected to bring.
-    – 
+Paper that aims to reframe the 'progress in philosophy' debate, articulate an instrumentalist take on it, and provide guidelines to do some empirical work on the issue.
 
-### Important insights ###
-     **Useful distinctions**: intrinsic value – internal justification / instrumental value – external justification.
+Main argument:
+----------------
+
+Progress in the problems of the discipline is not a necessary condition for philosophy being valuable, since it's value steems mainly from the set of skills philosophers end up developing in studying and thinking about the problems of the discipline. Such a set of skills can be operationalized. They are transferible and useful, this should be empirically testable. 
+
+
+Secondary arguments:
+---------------------
+
+– The value-of-philosophy question is more interesting/important/a better way to frame the issue than the progress-in-philosophy question.
+
+– In so far it receives public funds, philosophers have the duty of offering an external justification.
+
+– Ppl from humanities often offer poor external justifications—not good enough as to justify the amount of public funding they receive, which, arguably, should be proportional to the amount of public good a discipline is expected to bring.
+
+– A strong defense of philosophy's value should assume that there might be no fact of the matter regarding the big problems of philosophy.
+
+– Philosophical expertise should not be characterized in terms of knowledge, but in terms of a certain set of skills.
+
+– Facts about the nature of philosophical problems and institutional insentives support the main thesis.
+
+– Empirical work must be done to fully support the main thesis. It can be done. 
+
+
+
+Important insights
+-------------------
+
+– **Useful distinctions**:
+
+   + Intrinsic value – internal justification / instrumental value – external justification.
+   + Intrinsic value might steem from its epistemic, cultural and/or aesthetic value.
 

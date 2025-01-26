@@ -37,3 +37,12 @@ Important insights
    + Intrinsic value – internal justification / instrumental value – external justification.
    + Intrinsic value might steam from its epistemic, cultural and/or aesthetic value.
 
+
+Structure of the paper
+-----------------------
+
+### Intro ###
+
+– Story.
+
+– Motivation for refraiming the question.
